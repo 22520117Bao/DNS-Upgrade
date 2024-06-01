@@ -1,0 +1,5 @@
+﻿--CREATE TABLE USERT
+--(
+--  it INT PRIMARY KEY IDENTITY(1,1),
+--  clientname VARCHAR (MAX) NULL
+--)
